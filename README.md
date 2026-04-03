@@ -1,7 +1,15 @@
+<div align="center">
 
-## Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+## Hi there , I'm yechaoa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-<img align="center" alt="yechaoa's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=yechaoa&show_icons=true">
+<img align="center" alt="yechaoa's github stats" width="50%" src="https://github-readme-stats-eldments-projects.vercel.app/api?username=yechaoa&show_icons=true">
+
+<!--
+[![GitHub User's stars](https://img.shields.io/github/stars/yechaoa?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/yechaoa)
+[![Profile Views](https://komarev.com/ghpvc/?username=yechaoa&style=for-the-badge&color=blueviolet)](https://github.com/yechaoa)
+-->
+
+</div>
 
 ## 基本信息
 - 🧑‍💻 `Name` : yechaoa
